@@ -17,3 +17,4 @@ backup_flat/
 
 # mailconfig met wachtwoord — nooit in git!
 send-config.php
+_build_schrobmachine.py
